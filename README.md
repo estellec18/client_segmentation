@@ -1,14 +1,14 @@
 # client_segmentation
 *Projet développé dans le cadre du parcours Data Scientist d'OpenClassrooms en partenariat avec CentralSupélec (RNCP niveau 7)*
 
-**context**
+**Contexte**
 
 Olist est une entreprise brésilienne qui propose une solution de vente sur les marketplaces en ligne (https://olist.com/).
 Olist souhaite fournir à ses équipes d'e-commerce une segmentation des clients qu’elles pourront utiliser au quotidien pour leurs campagnes de communication.
 
 L'objectif de ce projet est de comprendre les différents types de clients grâce à leur comportement et à leurs données personnelles.
 
-**livrables**
+**Livrables**
 
 -  une segmentation client, avec une description actionable & une description de sa logique sous-jacente pour une utilisation optimale par les équipes marketing,
 -  une proposition de contrat de maintenance basée sur une analyse de la stabilité des segments dans le temps.
